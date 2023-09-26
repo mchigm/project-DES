@@ -13,5 +13,6 @@
 - DES integrates calculation results by using Meta's Llama2 NLP model [License]() and Microsoft math [Website](https://math.microsoft.com).
 - DES support LaTeX and Pybtex(BibTeX-compatible bibliography processor) generation by using Python's [PyLaTeX](https://github.com/JelteF/PyLaTeX) and [Pybtex!](https://pybtex.org/) libary.
 - DES support [DAS](https://emperorowl.gitbook.io/das) APIs.
+- DES support Wolfram language(IF BOUGHT BY USER). (Privacy agreement)[]
 ### Why is DES created?
 - DES is designed in a competition against [DAS](https://emperorowl.gitbook.io/das/).
