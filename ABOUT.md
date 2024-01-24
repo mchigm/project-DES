@@ -14,5 +14,9 @@
 - DES support LaTeX and Pybtex(BibTeX-compatible bibliography processor) generation by using Python's [PyLaTeX](https://github.com/JelteF/PyLaTeX) and [Pybtex!](https://pybtex.org/) libary.
 - DES support [DAS](https://emperorowl.gitbook.io/das) APIs.
 - DES support Wolfram language(IF BOUGHT BY USER). (Privacy agreement)[[link]()]
+#### DES is a sub-sub-branch from Project U. For more information, [go here]()
+### DES plugin guide
+### DES modification guide
+### DES extrnsion
 ### Why was DES created?
 - DES is designed in competition against [DAS](https://emperorowl.gitbook.io/das/).
